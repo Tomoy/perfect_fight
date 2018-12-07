@@ -1,2 +1,2 @@
-# perfect_fight
+# Perfect Fight
 Custom and fun fight game
