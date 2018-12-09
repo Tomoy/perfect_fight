@@ -9,4 +9,4 @@ const playerSchema = Schema({
 })
 
 var Player = mongoose.model('Player', playerSchema)
-model.exports = Player
+module.exports = Player

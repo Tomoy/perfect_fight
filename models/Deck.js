@@ -9,4 +9,4 @@ const deckSchema = Schema({
 })
 
 var Deck = mongoose.model('Deck', deckSchema)
-model.exports = Deck
+module.exports = Deck

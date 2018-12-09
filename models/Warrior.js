@@ -10,4 +10,4 @@ const warriorSchema = Schema({
 })
 
 var Warrior = mongoose.model('Warrior', warriorSchema)
-model.exports = Warrior
+module.exports = Warrior
